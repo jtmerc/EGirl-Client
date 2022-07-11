@@ -1,4 +1,4 @@
-// Import types
+// Import
 import {
     INPUT_SUCCESS,
     INPUT_FAIL,

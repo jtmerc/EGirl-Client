@@ -49,7 +49,7 @@ h1{
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 body {
-  background-image: url("imgs/e.jpg");
+  background-image: url("./imgs/e.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
