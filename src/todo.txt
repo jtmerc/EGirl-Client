@@ -1,0 +1,9 @@
+1. Setup redux
+2. setup reducers and action
+3. setup chat
+4. chat queue 
+5. display messages to user
+6. get and handle session id
+7. handle sending our message to the app
+8. adding bot responses
+9. formatting
